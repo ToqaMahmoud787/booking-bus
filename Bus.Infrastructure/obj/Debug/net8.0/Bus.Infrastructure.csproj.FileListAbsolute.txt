@@ -1,0 +1,60 @@
+C:\Users\Khale\Documents\Desktop\BusTraveleer\BusTraveller Sol\Bus.Infrastructure\bin\Debug\net8.0\Bus.Infrastructure.deps.json
+C:\Users\Khale\Documents\Desktop\BusTraveleer\BusTraveller Sol\Bus.Infrastructure\bin\Debug\net8.0\Bus.Infrastructure.dll
+C:\Users\Khale\Documents\Desktop\BusTraveleer\BusTraveller Sol\Bus.Infrastructure\bin\Debug\net8.0\Bus.Infrastructure.pdb
+C:\Users\Khale\Documents\Desktop\BusTraveleer\BusTraveller Sol\Bus.Infrastructure\bin\Debug\net8.0\Bus.Core.dll
+C:\Users\Khale\Documents\Desktop\BusTraveleer\BusTraveller Sol\Bus.Infrastructure\bin\Debug\net8.0\Bus.Core.pdb
+C:\Users\Khale\Documents\Desktop\BusTraveleer\BusTraveller Sol\Bus.Infrastructure\obj\Debug\net8.0\Bus.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Khale\Documents\Desktop\BusTraveleer\BusTraveller Sol\Bus.Infrastructure\obj\Debug\net8.0\Bus.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Khale\Documents\Desktop\BusTraveleer\BusTraveller Sol\Bus.Infrastructure\obj\Debug\net8.0\Bus.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Khale\Documents\Desktop\BusTraveleer\BusTraveller Sol\Bus.Infrastructure\obj\Debug\net8.0\Bus.Infrastructure.AssemblyInfo.cs
+C:\Users\Khale\Documents\Desktop\BusTraveleer\BusTraveller Sol\Bus.Infrastructure\obj\Debug\net8.0\Bus.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Khale\Documents\Desktop\BusTraveleer\BusTraveller Sol\Bus.Infrastructure\obj\Debug\net8.0\Bus.Infrastructure.csproj.CopyComplete
+C:\Users\Khale\Documents\Desktop\BusTraveleer\BusTraveller Sol\Bus.Infrastructure\obj\Debug\net8.0\Bus.Infrastructure.dll
+C:\Users\Khale\Documents\Desktop\BusTraveleer\BusTraveller Sol\Bus.Infrastructure\obj\Debug\net8.0\refint\Bus.Infrastructure.dll
+C:\Users\Khale\Documents\Desktop\BusTraveleer\BusTraveller Sol\Bus.Infrastructure\obj\Debug\net8.0\Bus.Infrastructure.pdb
+C:\Users\Khale\Documents\Desktop\BusTraveleer\BusTraveller Sol\Bus.Infrastructure\obj\Debug\net8.0\ref\Bus.Infrastructure.dll
+D:\Project ia 3azeeeeem\BusTraveller Sol\BusTraveller Sol\Bus.Infrastructure\bin\Debug\net8.0\Bus.Infrastructure.deps.json
+D:\Project ia 3azeeeeem\BusTraveller Sol\BusTraveller Sol\Bus.Infrastructure\bin\Debug\net8.0\Bus.Infrastructure.dll
+D:\Project ia 3azeeeeem\BusTraveller Sol\BusTraveller Sol\Bus.Infrastructure\bin\Debug\net8.0\Bus.Infrastructure.pdb
+D:\Project ia 3azeeeeem\BusTraveller Sol\BusTraveller Sol\Bus.Infrastructure\bin\Debug\net8.0\Bus.Core.dll
+D:\Project ia 3azeeeeem\BusTraveller Sol\BusTraveller Sol\Bus.Infrastructure\bin\Debug\net8.0\Bus.Core.pdb
+D:\Project ia 3azeeeeem\BusTraveller Sol\BusTraveller Sol\Bus.Infrastructure\obj\Debug\net8.0\Bus.Infrastructure.csproj.AssemblyReference.cache
+D:\Project ia 3azeeeeem\BusTraveller Sol\BusTraveller Sol\Bus.Infrastructure\obj\Debug\net8.0\Bus.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project ia 3azeeeeem\BusTraveller Sol\BusTraveller Sol\Bus.Infrastructure\obj\Debug\net8.0\Bus.Infrastructure.AssemblyInfoInputs.cache
+D:\Project ia 3azeeeeem\BusTraveller Sol\BusTraveller Sol\Bus.Infrastructure\obj\Debug\net8.0\Bus.Infrastructure.AssemblyInfo.cs
+D:\Project ia 3azeeeeem\BusTraveller Sol\BusTraveller Sol\Bus.Infrastructure\obj\Debug\net8.0\Bus.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Project ia 3azeeeeem\BusTraveller Sol\BusTraveller Sol\Bus.Infrastructure\obj\Debug\net8.0\Bus.Infr.F6E8901F.Up2Date
+D:\Project ia 3azeeeeem\BusTraveller Sol\BusTraveller Sol\Bus.Infrastructure\obj\Debug\net8.0\Bus.Infrastructure.dll
+D:\Project ia 3azeeeeem\BusTraveller Sol\BusTraveller Sol\Bus.Infrastructure\obj\Debug\net8.0\refint\Bus.Infrastructure.dll
+D:\Project ia 3azeeeeem\BusTraveller Sol\BusTraveller Sol\Bus.Infrastructure\obj\Debug\net8.0\Bus.Infrastructure.pdb
+D:\Project ia 3azeeeeem\BusTraveller Sol\BusTraveller Sol\Bus.Infrastructure\obj\Debug\net8.0\ref\Bus.Infrastructure.dll
+C:\Users\basma\Downloads\BusTraveller Sol2\BusTraveller Sol\Bus.Infrastructure\bin\Debug\net8.0\Bus.Infrastructure.deps.json
+C:\Users\basma\Downloads\BusTraveller Sol2\BusTraveller Sol\Bus.Infrastructure\bin\Debug\net8.0\Bus.Infrastructure.dll
+C:\Users\basma\Downloads\BusTraveller Sol2\BusTraveller Sol\Bus.Infrastructure\bin\Debug\net8.0\Bus.Infrastructure.pdb
+C:\Users\basma\Downloads\BusTraveller Sol2\BusTraveller Sol\Bus.Infrastructure\bin\Debug\net8.0\Bus.Core.dll
+C:\Users\basma\Downloads\BusTraveller Sol2\BusTraveller Sol\Bus.Infrastructure\bin\Debug\net8.0\Bus.Core.pdb
+C:\Users\basma\Downloads\BusTraveller Sol2\BusTraveller Sol\Bus.Infrastructure\obj\Debug\net8.0\Bus.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\basma\Downloads\BusTraveller Sol2\BusTraveller Sol\Bus.Infrastructure\obj\Debug\net8.0\Bus.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basma\Downloads\BusTraveller Sol2\BusTraveller Sol\Bus.Infrastructure\obj\Debug\net8.0\Bus.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\basma\Downloads\BusTraveller Sol2\BusTraveller Sol\Bus.Infrastructure\obj\Debug\net8.0\Bus.Infrastructure.AssemblyInfo.cs
+C:\Users\basma\Downloads\BusTraveller Sol2\BusTraveller Sol\Bus.Infrastructure\obj\Debug\net8.0\Bus.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\basma\Downloads\BusTraveller Sol2\BusTraveller Sol\Bus.Infrastructure\obj\Debug\net8.0\Bus.Infr.F6E8901F.Up2Date
+C:\Users\basma\Downloads\BusTraveller Sol2\BusTraveller Sol\Bus.Infrastructure\obj\Debug\net8.0\Bus.Infrastructure.dll
+C:\Users\basma\Downloads\BusTraveller Sol2\BusTraveller Sol\Bus.Infrastructure\obj\Debug\net8.0\refint\Bus.Infrastructure.dll
+C:\Users\basma\Downloads\BusTraveller Sol2\BusTraveller Sol\Bus.Infrastructure\obj\Debug\net8.0\Bus.Infrastructure.pdb
+C:\Users\basma\Downloads\BusTraveller Sol2\BusTraveller Sol\Bus.Infrastructure\obj\Debug\net8.0\ref\Bus.Infrastructure.dll
+C:\Users\w\Downloads\BusTraveller SolCopy\BusTraveller SolCopy\BusTraveller Sol\Bus.Infrastructure\bin\Debug\net8.0\Bus.Infrastructure.deps.json
+C:\Users\w\Downloads\BusTraveller SolCopy\BusTraveller SolCopy\BusTraveller Sol\Bus.Infrastructure\bin\Debug\net8.0\Bus.Infrastructure.dll
+C:\Users\w\Downloads\BusTraveller SolCopy\BusTraveller SolCopy\BusTraveller Sol\Bus.Infrastructure\bin\Debug\net8.0\Bus.Infrastructure.pdb
+C:\Users\w\Downloads\BusTraveller SolCopy\BusTraveller SolCopy\BusTraveller Sol\Bus.Infrastructure\bin\Debug\net8.0\Bus.Core.dll
+C:\Users\w\Downloads\BusTraveller SolCopy\BusTraveller SolCopy\BusTraveller Sol\Bus.Infrastructure\bin\Debug\net8.0\Bus.Core.pdb
+C:\Users\w\Downloads\BusTraveller SolCopy\BusTraveller SolCopy\BusTraveller Sol\Bus.Infrastructure\obj\Debug\net8.0\Bus.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\w\Downloads\BusTraveller SolCopy\BusTraveller SolCopy\BusTraveller Sol\Bus.Infrastructure\obj\Debug\net8.0\Bus.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\w\Downloads\BusTraveller SolCopy\BusTraveller SolCopy\BusTraveller Sol\Bus.Infrastructure\obj\Debug\net8.0\Bus.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\w\Downloads\BusTraveller SolCopy\BusTraveller SolCopy\BusTraveller Sol\Bus.Infrastructure\obj\Debug\net8.0\Bus.Infrastructure.AssemblyInfo.cs
+C:\Users\w\Downloads\BusTraveller SolCopy\BusTraveller SolCopy\BusTraveller Sol\Bus.Infrastructure\obj\Debug\net8.0\Bus.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\w\Downloads\BusTraveller SolCopy\BusTraveller SolCopy\BusTraveller Sol\Bus.Infrastructure\obj\Debug\net8.0\Bus.Infr.F6E8901F.Up2Date
+C:\Users\w\Downloads\BusTraveller SolCopy\BusTraveller SolCopy\BusTraveller Sol\Bus.Infrastructure\obj\Debug\net8.0\Bus.Infrastructure.dll
+C:\Users\w\Downloads\BusTraveller SolCopy\BusTraveller SolCopy\BusTraveller Sol\Bus.Infrastructure\obj\Debug\net8.0\refint\Bus.Infrastructure.dll
+C:\Users\w\Downloads\BusTraveller SolCopy\BusTraveller SolCopy\BusTraveller Sol\Bus.Infrastructure\obj\Debug\net8.0\Bus.Infrastructure.pdb
+C:\Users\w\Downloads\BusTraveller SolCopy\BusTraveller SolCopy\BusTraveller Sol\Bus.Infrastructure\obj\Debug\net8.0\ref\Bus.Infrastructure.dll

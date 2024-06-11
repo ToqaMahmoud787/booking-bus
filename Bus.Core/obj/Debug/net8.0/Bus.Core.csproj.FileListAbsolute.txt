@@ -1,0 +1,45 @@
+C:\Users\Khale\Documents\Desktop\BusTraveleer\BusTraveller Sol\Bus.Core\bin\Debug\net8.0\Bus.Core.deps.json
+C:\Users\Khale\Documents\Desktop\BusTraveleer\BusTraveller Sol\Bus.Core\bin\Debug\net8.0\Bus.Core.dll
+C:\Users\Khale\Documents\Desktop\BusTraveleer\BusTraveller Sol\Bus.Core\bin\Debug\net8.0\Bus.Core.pdb
+C:\Users\Khale\Documents\Desktop\BusTraveleer\BusTraveller Sol\Bus.Core\obj\Debug\net8.0\Bus.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Khale\Documents\Desktop\BusTraveleer\BusTraveller Sol\Bus.Core\obj\Debug\net8.0\Bus.Core.AssemblyInfoInputs.cache
+C:\Users\Khale\Documents\Desktop\BusTraveleer\BusTraveller Sol\Bus.Core\obj\Debug\net8.0\Bus.Core.AssemblyInfo.cs
+C:\Users\Khale\Documents\Desktop\BusTraveleer\BusTraveller Sol\Bus.Core\obj\Debug\net8.0\Bus.Core.csproj.CoreCompileInputs.cache
+C:\Users\Khale\Documents\Desktop\BusTraveleer\BusTraveller Sol\Bus.Core\obj\Debug\net8.0\Bus.Core.dll
+C:\Users\Khale\Documents\Desktop\BusTraveleer\BusTraveller Sol\Bus.Core\obj\Debug\net8.0\refint\Bus.Core.dll
+C:\Users\Khale\Documents\Desktop\BusTraveleer\BusTraveller Sol\Bus.Core\obj\Debug\net8.0\Bus.Core.pdb
+C:\Users\Khale\Documents\Desktop\BusTraveleer\BusTraveller Sol\Bus.Core\obj\Debug\net8.0\ref\Bus.Core.dll
+D:\Project ia 3azeeeeem\BusTraveller Sol\BusTraveller Sol\Bus.Core\bin\Debug\net8.0\Bus.Core.deps.json
+D:\Project ia 3azeeeeem\BusTraveller Sol\BusTraveller Sol\Bus.Core\bin\Debug\net8.0\Bus.Core.dll
+D:\Project ia 3azeeeeem\BusTraveller Sol\BusTraveller Sol\Bus.Core\bin\Debug\net8.0\Bus.Core.pdb
+D:\Project ia 3azeeeeem\BusTraveller Sol\BusTraveller Sol\Bus.Core\obj\Debug\net8.0\Bus.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project ia 3azeeeeem\BusTraveller Sol\BusTraveller Sol\Bus.Core\obj\Debug\net8.0\Bus.Core.AssemblyInfoInputs.cache
+D:\Project ia 3azeeeeem\BusTraveller Sol\BusTraveller Sol\Bus.Core\obj\Debug\net8.0\Bus.Core.AssemblyInfo.cs
+D:\Project ia 3azeeeeem\BusTraveller Sol\BusTraveller Sol\Bus.Core\obj\Debug\net8.0\Bus.Core.csproj.CoreCompileInputs.cache
+D:\Project ia 3azeeeeem\BusTraveller Sol\BusTraveller Sol\Bus.Core\obj\Debug\net8.0\Bus.Core.dll
+D:\Project ia 3azeeeeem\BusTraveller Sol\BusTraveller Sol\Bus.Core\obj\Debug\net8.0\refint\Bus.Core.dll
+D:\Project ia 3azeeeeem\BusTraveller Sol\BusTraveller Sol\Bus.Core\obj\Debug\net8.0\Bus.Core.pdb
+D:\Project ia 3azeeeeem\BusTraveller Sol\BusTraveller Sol\Bus.Core\obj\Debug\net8.0\ref\Bus.Core.dll
+C:\Users\basma\Downloads\BusTraveller Sol2\BusTraveller Sol\Bus.Core\bin\Debug\net8.0\Bus.Core.deps.json
+C:\Users\basma\Downloads\BusTraveller Sol2\BusTraveller Sol\Bus.Core\bin\Debug\net8.0\Bus.Core.dll
+C:\Users\basma\Downloads\BusTraveller Sol2\BusTraveller Sol\Bus.Core\bin\Debug\net8.0\Bus.Core.pdb
+C:\Users\basma\Downloads\BusTraveller Sol2\BusTraveller Sol\Bus.Core\obj\Debug\net8.0\Bus.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basma\Downloads\BusTraveller Sol2\BusTraveller Sol\Bus.Core\obj\Debug\net8.0\Bus.Core.AssemblyInfoInputs.cache
+C:\Users\basma\Downloads\BusTraveller Sol2\BusTraveller Sol\Bus.Core\obj\Debug\net8.0\Bus.Core.AssemblyInfo.cs
+C:\Users\basma\Downloads\BusTraveller Sol2\BusTraveller Sol\Bus.Core\obj\Debug\net8.0\Bus.Core.csproj.CoreCompileInputs.cache
+C:\Users\basma\Downloads\BusTraveller Sol2\BusTraveller Sol\Bus.Core\obj\Debug\net8.0\Bus.Core.dll
+C:\Users\basma\Downloads\BusTraveller Sol2\BusTraveller Sol\Bus.Core\obj\Debug\net8.0\refint\Bus.Core.dll
+C:\Users\basma\Downloads\BusTraveller Sol2\BusTraveller Sol\Bus.Core\obj\Debug\net8.0\Bus.Core.pdb
+C:\Users\basma\Downloads\BusTraveller Sol2\BusTraveller Sol\Bus.Core\obj\Debug\net8.0\ref\Bus.Core.dll
+C:\Users\w\Downloads\BusTraveller SolCopy\BusTraveller SolCopy\BusTraveller Sol\Bus.Core\bin\Debug\net8.0\Bus.Core.deps.json
+C:\Users\w\Downloads\BusTraveller SolCopy\BusTraveller SolCopy\BusTraveller Sol\Bus.Core\bin\Debug\net8.0\Bus.Core.dll
+C:\Users\w\Downloads\BusTraveller SolCopy\BusTraveller SolCopy\BusTraveller Sol\Bus.Core\bin\Debug\net8.0\Bus.Core.pdb
+C:\Users\w\Downloads\BusTraveller SolCopy\BusTraveller SolCopy\BusTraveller Sol\Bus.Core\obj\Debug\net8.0\Bus.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\w\Downloads\BusTraveller SolCopy\BusTraveller SolCopy\BusTraveller Sol\Bus.Core\obj\Debug\net8.0\Bus.Core.AssemblyInfoInputs.cache
+C:\Users\w\Downloads\BusTraveller SolCopy\BusTraveller SolCopy\BusTraveller Sol\Bus.Core\obj\Debug\net8.0\Bus.Core.AssemblyInfo.cs
+C:\Users\w\Downloads\BusTraveller SolCopy\BusTraveller SolCopy\BusTraveller Sol\Bus.Core\obj\Debug\net8.0\Bus.Core.csproj.CoreCompileInputs.cache
+C:\Users\w\Downloads\BusTraveller SolCopy\BusTraveller SolCopy\BusTraveller Sol\Bus.Core\obj\Debug\net8.0\Bus.Core.dll
+C:\Users\w\Downloads\BusTraveller SolCopy\BusTraveller SolCopy\BusTraveller Sol\Bus.Core\obj\Debug\net8.0\refint\Bus.Core.dll
+C:\Users\w\Downloads\BusTraveller SolCopy\BusTraveller SolCopy\BusTraveller Sol\Bus.Core\obj\Debug\net8.0\Bus.Core.pdb
+C:\Users\w\Downloads\BusTraveller SolCopy\BusTraveller SolCopy\BusTraveller Sol\Bus.Core\obj\Debug\net8.0\ref\Bus.Core.dll
+C:\Users\w\Downloads\BusTraveller SolCopy\BusTraveller SolCopy\BusTraveller Sol\Bus.Core\obj\Debug\net8.0\Bus.Core.csproj.AssemblyReference.cache

@@ -1,0 +1,580 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\w\\Downloads\\BusTraveller SolCopy\\BusTraveller SolCopy\\BusTraveller Sol\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{330ACB5B-6382-4328-8098-21CF9FA0F902}|BusTraveller\\BusTraveller.csproj|c:\\users\\w\\downloads\\bustraveller solcopy\\bustraveller solcopy\\bustraveller sol\\bustraveller\\helpers\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{330ACB5B-6382-4328-8098-21CF9FA0F902}|BusTraveller\\BusTraveller.csproj|solutionrelative:bustraveller\\helpers\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{330ACB5B-6382-4328-8098-21CF9FA0F902}|BusTraveller\\BusTraveller.csproj|c:\\users\\w\\downloads\\bustraveller solcopy\\bustraveller solcopy\\bustraveller sol\\bustraveller\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{330ACB5B-6382-4328-8098-21CF9FA0F902}|BusTraveller\\BusTraveller.csproj|solutionrelative:bustraveller\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{330ACB5B-6382-4328-8098-21CF9FA0F902}|BusTraveller\\BusTraveller.csproj|c:\\users\\w\\downloads\\bustraveller solcopy\\bustraveller solcopy\\bustraveller sol\\bustraveller\\controllers\\travellercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{330ACB5B-6382-4328-8098-21CF9FA0F902}|BusTraveller\\BusTraveller.csproj|solutionrelative:bustraveller\\controllers\\travellercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D64B638B-47BA-44C9-943C-B398B03F5A33}|Bus.Core\\Bus.Core.csproj|c:\\users\\w\\downloads\\bustraveller solcopy\\bustraveller solcopy\\bustraveller sol\\bus.core\\models\\traveller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D64B638B-47BA-44C9-943C-B398B03F5A33}|Bus.Core\\Bus.Core.csproj|solutionrelative:bus.core\\models\\traveller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17DF69D1-4F5F-43BE-94F3-AE86D6E0F44E}|Bus.Infrastructure\\Bus.Infrastructure.csproj|c:\\users\\w\\downloads\\bustraveller solcopy\\bustraveller solcopy\\bustraveller sol\\bus.infrastructure\\datarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17DF69D1-4F5F-43BE-94F3-AE86D6E0F44E}|Bus.Infrastructure\\Bus.Infrastructure.csproj|solutionrelative:bus.infrastructure\\datarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D64B638B-47BA-44C9-943C-B398B03F5A33}|Bus.Core\\Bus.Core.csproj|c:\\users\\w\\downloads\\bustraveller solcopy\\bustraveller solcopy\\bustraveller sol\\bus.core\\repositories.contract\\idatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D64B638B-47BA-44C9-943C-B398B03F5A33}|Bus.Core\\Bus.Core.csproj|solutionrelative:bus.core\\repositories.contract\\idatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{330ACB5B-6382-4328-8098-21CF9FA0F902}|BusTraveller\\BusTraveller.csproj|c:\\users\\w\\downloads\\bustraveller solcopy\\bustraveller solcopy\\bustraveller sol\\bustraveller\\dtos\\requestdtotraveller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{330ACB5B-6382-4328-8098-21CF9FA0F902}|BusTraveller\\BusTraveller.csproj|solutionrelative:bustraveller\\dtos\\requestdtotraveller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D64B638B-47BA-44C9-943C-B398B03F5A33}|Bus.Core\\Bus.Core.csproj|c:\\users\\w\\downloads\\bustraveller solcopy\\bustraveller solcopy\\bustraveller sol\\bus.core\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D64B638B-47BA-44C9-943C-B398B03F5A33}|Bus.Core\\Bus.Core.csproj|solutionrelative:bus.core\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{330ACB5B-6382-4328-8098-21CF9FA0F902}|BusTraveller\\BusTraveller.csproj|c:\\users\\w\\downloads\\bustraveller solcopy\\bustraveller solcopy\\bustraveller sol\\bustraveller\\dtos\\appointmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{330ACB5B-6382-4328-8098-21CF9FA0F902}|BusTraveller\\BusTraveller.csproj|solutionrelative:bustraveller\\dtos\\appointmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D64B638B-47BA-44C9-943C-B398B03F5A33}|Bus.Core\\Bus.Core.csproj|c:\\users\\w\\downloads\\bustraveller solcopy\\bustraveller solcopy\\bustraveller sol\\bus.core\\models\\destination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D64B638B-47BA-44C9-943C-B398B03F5A33}|Bus.Core\\Bus.Core.csproj|solutionrelative:bus.core\\models\\destination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{330ACB5B-6382-4328-8098-21CF9FA0F902}|BusTraveller\\BusTraveller.csproj|c:\\users\\w\\downloads\\bustraveller solcopy\\bustraveller solcopy\\bustraveller sol\\bustraveller\\dtos\\destinationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{330ACB5B-6382-4328-8098-21CF9FA0F902}|BusTraveller\\BusTraveller.csproj|solutionrelative:bustraveller\\dtos\\destinationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17DF69D1-4F5F-43BE-94F3-AE86D6E0F44E}|Bus.Infrastructure\\Bus.Infrastructure.csproj|c:\\users\\w\\downloads\\bustraveller solcopy\\bustraveller solcopy\\bustraveller sol\\bus.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17DF69D1-4F5F-43BE-94F3-AE86D6E0F44E}|Bus.Infrastructure\\Bus.Infrastructure.csproj|solutionrelative:bus.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{330ACB5B-6382-4328-8098-21CF9FA0F902}|BusTraveller\\BusTraveller.csproj|c:\\users\\w\\downloads\\bustraveller solcopy\\bustraveller solcopy\\bustraveller sol\\bustraveller\\dtos\\travellerhistorysearchdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{330ACB5B-6382-4328-8098-21CF9FA0F902}|BusTraveller\\BusTraveller.csproj|solutionrelative:bustraveller\\dtos\\travellerhistorysearchdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D64B638B-47BA-44C9-943C-B398B03F5A33}|Bus.Core\\Bus.Core.csproj|c:\\users\\w\\downloads\\bustraveller solcopy\\bustraveller solcopy\\bustraveller sol\\bus.core\\models\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D64B638B-47BA-44C9-943C-B398B03F5A33}|Bus.Core\\Bus.Core.csproj|solutionrelative:bus.core\\models\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D64B638B-47BA-44C9-943C-B398B03F5A33}|Bus.Core\\Bus.Core.csproj|c:\\users\\w\\downloads\\bustraveller solcopy\\bustraveller solcopy\\bustraveller sol\\bus.core\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D64B638B-47BA-44C9-943C-B398B03F5A33}|Bus.Core\\Bus.Core.csproj|solutionrelative:bus.core\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D64B638B-47BA-44C9-943C-B398B03F5A33}|Bus.Core\\Bus.Core.csproj|c:\\users\\w\\downloads\\bustraveller solcopy\\bustraveller solcopy\\bustraveller sol\\bus.core\\models\\travellerhistorysearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D64B638B-47BA-44C9-943C-B398B03F5A33}|Bus.Core\\Bus.Core.csproj|solutionrelative:bus.core\\models\\travellerhistorysearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{330ACB5B-6382-4328-8098-21CF9FA0F902}|BusTraveller\\BusTraveller.csproj|c:\\users\\w\\downloads\\bustraveller solcopy\\bustraveller solcopy\\bustraveller sol\\bustraveller\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{330ACB5B-6382-4328-8098-21CF9FA0F902}|BusTraveller\\BusTraveller.csproj|solutionrelative:bustraveller\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17DF69D1-4F5F-43BE-94F3-AE86D6E0F44E}|Bus.Infrastructure\\Bus.Infrastructure.csproj|c:\\users\\w\\downloads\\bustraveller solcopy\\bustraveller solcopy\\bustraveller sol\\bus.infrastructure\\data\\configurations\\travellerconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17DF69D1-4F5F-43BE-94F3-AE86D6E0F44E}|Bus.Infrastructure\\Bus.Infrastructure.csproj|solutionrelative:bus.infrastructure\\data\\configurations\\travellerconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17DF69D1-4F5F-43BE-94F3-AE86D6E0F44E}|Bus.Infrastructure\\Bus.Infrastructure.csproj|c:\\users\\w\\downloads\\bustraveller solcopy\\bustraveller solcopy\\bustraveller sol\\bus.infrastructure\\data\\configurations\\appointmentconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17DF69D1-4F5F-43BE-94F3-AE86D6E0F44E}|Bus.Infrastructure\\Bus.Infrastructure.csproj|solutionrelative:bus.infrastructure\\data\\configurations\\appointmentconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D64B638B-47BA-44C9-943C-B398B03F5A33}|Bus.Core\\Bus.Core.csproj|c:\\users\\w\\downloads\\bustraveller solcopy\\bustraveller solcopy\\bustraveller sol\\bus.core\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D64B638B-47BA-44C9-943C-B398B03F5A33}|Bus.Core\\Bus.Core.csproj|solutionrelative:bus.core\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D64B638B-47BA-44C9-943C-B398B03F5A33}|Bus.Core\\Bus.Core.csproj|c:\\users\\w\\downloads\\bustraveller solcopy\\bustraveller solcopy\\bustraveller sol\\bus.core\\repositories.contract\\iauthenticationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D64B638B-47BA-44C9-943C-B398B03F5A33}|Bus.Core\\Bus.Core.csproj|solutionrelative:bus.core\\repositories.contract\\iauthenticationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{330ACB5B-6382-4328-8098-21CF9FA0F902}|BusTraveller\\BusTraveller.csproj|c:\\users\\w\\downloads\\bustraveller solcopy\\bustraveller solcopy\\bustraveller sol\\bustraveller\\dtos\\requestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{330ACB5B-6382-4328-8098-21CF9FA0F902}|BusTraveller\\BusTraveller.csproj|solutionrelative:bustraveller\\dtos\\requestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{330ACB5B-6382-4328-8098-21CF9FA0F902}|BusTraveller\\BusTraveller.csproj|c:\\users\\w\\downloads\\bustraveller solcopy\\bustraveller solcopy\\bustraveller sol\\bustraveller\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{330ACB5B-6382-4328-8098-21CF9FA0F902}|BusTraveller\\BusTraveller.csproj|solutionrelative:bustraveller\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{330ACB5B-6382-4328-8098-21CF9FA0F902}|BusTraveller\\BusTraveller.csproj|c:\\users\\w\\downloads\\bustraveller solcopy\\bustraveller solcopy\\bustraveller sol\\bustraveller\\dtos\\userroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{330ACB5B-6382-4328-8098-21CF9FA0F902}|BusTraveller\\BusTraveller.csproj|solutionrelative:bustraveller\\dtos\\userroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{330ACB5B-6382-4328-8098-21CF9FA0F902}|BusTraveller\\BusTraveller.csproj|c:\\users\\w\\downloads\\bustraveller solcopy\\bustraveller solcopy\\bustraveller sol\\bustraveller\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{330ACB5B-6382-4328-8098-21CF9FA0F902}|BusTraveller\\BusTraveller.csproj|solutionrelative:bustraveller\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{330ACB5B-6382-4328-8098-21CF9FA0F902}|BusTraveller\\BusTraveller.csproj|c:\\users\\w\\downloads\\bustraveller solcopy\\bustraveller solcopy\\bustraveller sol\\bustraveller\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{330ACB5B-6382-4328-8098-21CF9FA0F902}|BusTraveller\\BusTraveller.csproj|solutionrelative:bustraveller\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17DF69D1-4F5F-43BE-94F3-AE86D6E0F44E}|Bus.Infrastructure\\Bus.Infrastructure.csproj|c:\\users\\w\\downloads\\bustraveller solcopy\\bustraveller solcopy\\bustraveller sol\\bus.infrastructure\\authenticationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17DF69D1-4F5F-43BE-94F3-AE86D6E0F44E}|Bus.Infrastructure\\Bus.Infrastructure.csproj|solutionrelative:bus.infrastructure\\authenticationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17DF69D1-4F5F-43BE-94F3-AE86D6E0F44E}|Bus.Infrastructure\\Bus.Infrastructure.csproj|c:\\users\\w\\downloads\\bustraveller solcopy\\bustraveller solcopy\\bustraveller sol\\bus.infrastructure\\bus.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{17DF69D1-4F5F-43BE-94F3-AE86D6E0F44E}|Bus.Infrastructure\\Bus.Infrastructure.csproj|solutionrelative:bus.infrastructure\\bus.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17DF69D1-4F5F-43BE-94F3-AE86D6E0F44E}|Bus.Infrastructure\\Bus.Infrastructure.csproj|c:\\users\\w\\downloads\\bustraveller solcopy\\bustraveller solcopy\\bustraveller sol\\bus.infrastructure\\data\\migrations\\20240502215227_intialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17DF69D1-4F5F-43BE-94F3-AE86D6E0F44E}|Bus.Infrastructure\\Bus.Infrastructure.csproj|solutionrelative:bus.infrastructure\\data\\migrations\\20240502215227_intialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17DF69D1-4F5F-43BE-94F3-AE86D6E0F44E}|Bus.Infrastructure\\Bus.Infrastructure.csproj|c:\\users\\w\\downloads\\bustraveller solcopy\\bustraveller solcopy\\bustraveller sol\\bus.infrastructure\\data\\migrations\\20240502215516_intialmigration2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17DF69D1-4F5F-43BE-94F3-AE86D6E0F44E}|Bus.Infrastructure\\Bus.Infrastructure.csproj|solutionrelative:bus.infrastructure\\data\\migrations\\20240502215516_intialmigration2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{330ACB5B-6382-4328-8098-21CF9FA0F902}|BusTraveller\\BusTraveller.csproj|c:\\users\\w\\downloads\\bustraveller solcopy\\bustraveller solcopy\\bustraveller sol\\bustraveller\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{330ACB5B-6382-4328-8098-21CF9FA0F902}|BusTraveller\\BusTraveller.csproj|solutionrelative:bustraveller\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17DF69D1-4F5F-43BE-94F3-AE86D6E0F44E}|Bus.Infrastructure\\Bus.Infrastructure.csproj|c:\\users\\w\\downloads\\bustraveller solcopy\\bustraveller solcopy\\bustraveller sol\\bus.infrastructure\\data\\migrations\\20240503170417_initial migration3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17DF69D1-4F5F-43BE-94F3-AE86D6E0F44E}|Bus.Infrastructure\\Bus.Infrastructure.csproj|solutionrelative:bus.infrastructure\\data\\migrations\\20240503170417_initial migration3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17DF69D1-4F5F-43BE-94F3-AE86D6E0F44E}|Bus.Infrastructure\\Bus.Infrastructure.csproj|c:\\users\\w\\downloads\\bustraveller solcopy\\bustraveller solcopy\\bustraveller sol\\bus.infrastructure\\data\\migrations\\20240504214629_initialmigration4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17DF69D1-4F5F-43BE-94F3-AE86D6E0F44E}|Bus.Infrastructure\\Bus.Infrastructure.csproj|solutionrelative:bus.infrastructure\\data\\migrations\\20240504214629_initialmigration4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17DF69D1-4F5F-43BE-94F3-AE86D6E0F44E}|Bus.Infrastructure\\Bus.Infrastructure.csproj|c:\\users\\w\\downloads\\bustraveller solcopy\\bustraveller solcopy\\bustraveller sol\\bus.infrastructure\\data\\migrations\\20240505010413_intialmigration5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17DF69D1-4F5F-43BE-94F3-AE86D6E0F44E}|Bus.Infrastructure\\Bus.Infrastructure.csproj|solutionrelative:bus.infrastructure\\data\\migrations\\20240505010413_intialmigration5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IDataRepository.cs",
+              "DocumentMoniker": "C:\\Users\\w\\Downloads\\BusTraveller SolCopy\\BusTraveller SolCopy\\BusTraveller Sol\\Bus.Core\\Repositories.Contract\\IDataRepository.cs",
+              "RelativeDocumentMoniker": "Bus.Core\\Repositories.Contract\\IDataRepository.cs",
+              "ToolTip": "C:\\Users\\w\\Downloads\\BusTraveller SolCopy\\BusTraveller SolCopy\\BusTraveller Sol\\Bus.Core\\Repositories.Contract\\IDataRepository.cs",
+              "RelativeToolTip": "Bus.Core\\Repositories.Contract\\IDataRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T01:06:43.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataRepository.cs",
+              "DocumentMoniker": "C:\\Users\\w\\Downloads\\BusTraveller SolCopy\\BusTraveller SolCopy\\BusTraveller Sol\\Bus.Infrastructure\\DataRepository.cs",
+              "RelativeDocumentMoniker": "Bus.Infrastructure\\DataRepository.cs",
+              "ToolTip": "C:\\Users\\w\\Downloads\\BusTraveller SolCopy\\BusTraveller SolCopy\\BusTraveller Sol\\Bus.Infrastructure\\DataRepository.cs",
+              "RelativeToolTip": "Bus.Infrastructure\\DataRepository.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwEwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T01:06:55.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\w\\Downloads\\BusTraveller SolCopy\\BusTraveller SolCopy\\BusTraveller Sol\\BusTraveller\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "BusTraveller\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\w\\Downloads\\BusTraveller SolCopy\\BusTraveller SolCopy\\BusTraveller Sol\\BusTraveller\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "BusTraveller\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAAAYBAAAAAAAAAAAuwBYBAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T00:22:53.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TravellerController.cs",
+              "DocumentMoniker": "C:\\Users\\w\\Downloads\\BusTraveller SolCopy\\BusTraveller SolCopy\\BusTraveller Sol\\BusTraveller\\Controllers\\TravellerController.cs",
+              "RelativeDocumentMoniker": "BusTraveller\\Controllers\\TravellerController.cs",
+              "ToolTip": "C:\\Users\\w\\Downloads\\BusTraveller SolCopy\\BusTraveller SolCopy\\BusTraveller Sol\\BusTraveller\\Controllers\\TravellerController.cs",
+              "RelativeToolTip": "BusTraveller\\Controllers\\TravellerController.cs",
+              "ViewState": "AQIAAJAAAAAAAAAAAAAowK4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T22:57:30.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Traveller.cs",
+              "DocumentMoniker": "C:\\Users\\w\\Downloads\\BusTraveller SolCopy\\BusTraveller SolCopy\\BusTraveller Sol\\Bus.Core\\Models\\Traveller.cs",
+              "RelativeDocumentMoniker": "Bus.Core\\Models\\Traveller.cs",
+              "ToolTip": "C:\\Users\\w\\Downloads\\BusTraveller SolCopy\\BusTraveller SolCopy\\BusTraveller Sol\\Bus.Core\\Models\\Traveller.cs",
+              "RelativeToolTip": "Bus.Core\\Models\\Traveller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T01:05:11.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\w\\Downloads\\BusTraveller SolCopy\\BusTraveller SolCopy\\BusTraveller Sol\\BusTraveller\\Helpers\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "BusTraveller\\Helpers\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\w\\Downloads\\BusTraveller SolCopy\\BusTraveller SolCopy\\BusTraveller Sol\\BusTraveller\\Helpers\\MappingProfile.cs",
+              "RelativeToolTip": "BusTraveller\\Helpers\\MappingProfile.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T00:22:53.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "requestDtotraveller.cs",
+              "DocumentMoniker": "C:\\Users\\w\\Downloads\\BusTraveller SolCopy\\BusTraveller SolCopy\\BusTraveller Sol\\BusTraveller\\Dtos\\requestDtotraveller.cs",
+              "RelativeDocumentMoniker": "BusTraveller\\Dtos\\requestDtotraveller.cs",
+              "ToolTip": "C:\\Users\\w\\Downloads\\BusTraveller SolCopy\\BusTraveller SolCopy\\BusTraveller Sol\\BusTraveller\\Dtos\\requestDtotraveller.cs",
+              "RelativeToolTip": "BusTraveller\\Dtos\\requestDtotraveller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T00:56:35.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\w\\Downloads\\BusTraveller SolCopy\\BusTraveller SolCopy\\BusTraveller Sol\\Bus.Core\\Models\\Appointment.cs",
+              "RelativeDocumentMoniker": "Bus.Core\\Models\\Appointment.cs",
+              "ToolTip": "C:\\Users\\w\\Downloads\\BusTraveller SolCopy\\BusTraveller SolCopy\\BusTraveller Sol\\Bus.Core\\Models\\Appointment.cs",
+              "RelativeToolTip": "Bus.Core\\Models\\Appointment.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAmwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T04:09:31.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Destination.cs",
+              "DocumentMoniker": "C:\\Users\\w\\Downloads\\BusTraveller SolCopy\\BusTraveller SolCopy\\BusTraveller Sol\\Bus.Core\\Models\\Destination.cs",
+              "RelativeDocumentMoniker": "Bus.Core\\Models\\Destination.cs",
+              "ToolTip": "C:\\Users\\w\\Downloads\\BusTraveller SolCopy\\BusTraveller SolCopy\\BusTraveller Sol\\Bus.Core\\Models\\Destination.cs",
+              "RelativeToolTip": "Bus.Core\\Models\\Destination.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T01:05:38.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppointmentDto.cs",
+              "DocumentMoniker": "C:\\Users\\w\\Downloads\\BusTraveller SolCopy\\BusTraveller SolCopy\\BusTraveller Sol\\BusTraveller\\Dtos\\AppointmentDto.cs",
+              "RelativeDocumentMoniker": "BusTraveller\\Dtos\\AppointmentDto.cs",
+              "ToolTip": "C:\\Users\\w\\Downloads\\BusTraveller SolCopy\\BusTraveller SolCopy\\BusTraveller Sol\\BusTraveller\\Dtos\\AppointmentDto.cs",
+              "RelativeToolTip": "BusTraveller\\Dtos\\AppointmentDto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T20:21:25.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DestinationDto.cs",
+              "DocumentMoniker": "C:\\Users\\w\\Downloads\\BusTraveller SolCopy\\BusTraveller SolCopy\\BusTraveller Sol\\BusTraveller\\Dtos\\DestinationDto.cs",
+              "RelativeDocumentMoniker": "BusTraveller\\Dtos\\DestinationDto.cs",
+              "ToolTip": "C:\\Users\\w\\Downloads\\BusTraveller SolCopy\\BusTraveller SolCopy\\BusTraveller Sol\\BusTraveller\\Dtos\\DestinationDto.cs",
+              "RelativeToolTip": "BusTraveller\\Dtos\\DestinationDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T04:08:11.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\w\\Downloads\\BusTraveller SolCopy\\BusTraveller SolCopy\\BusTraveller Sol\\Bus.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Bus.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\w\\Downloads\\BusTraveller SolCopy\\BusTraveller SolCopy\\BusTraveller Sol\\Bus.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Bus.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAIwB4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T01:09:01.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\w\\Downloads\\BusTraveller SolCopy\\BusTraveller SolCopy\\BusTraveller Sol\\Bus.Core\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "Bus.Core\\Models\\Role.cs",
+              "ToolTip": "C:\\Users\\w\\Downloads\\BusTraveller SolCopy\\BusTraveller SolCopy\\BusTraveller Sol\\Bus.Core\\Models\\Role.cs",
+              "RelativeToolTip": "Bus.Core\\Models\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T01:05:01.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Request.cs",
+              "DocumentMoniker": "C:\\Users\\w\\Downloads\\BusTraveller SolCopy\\BusTraveller SolCopy\\BusTraveller Sol\\Bus.Core\\Models\\Request.cs",
+              "RelativeDocumentMoniker": "Bus.Core\\Models\\Request.cs",
+              "ToolTip": "C:\\Users\\w\\Downloads\\BusTraveller SolCopy\\BusTraveller SolCopy\\BusTraveller Sol\\Bus.Core\\Models\\Request.cs",
+              "RelativeToolTip": "Bus.Core\\Models\\Request.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T01:05:22.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TravellerHistorySearchDto.cs",
+              "DocumentMoniker": "C:\\Users\\w\\Downloads\\BusTraveller SolCopy\\BusTraveller SolCopy\\BusTraveller Sol\\BusTraveller\\Dtos\\TravellerHistorySearchDto.cs",
+              "RelativeDocumentMoniker": "BusTraveller\\Dtos\\TravellerHistorySearchDto.cs",
+              "ToolTip": "C:\\Users\\w\\Downloads\\BusTraveller SolCopy\\BusTraveller SolCopy\\BusTraveller Sol\\BusTraveller\\Dtos\\TravellerHistorySearchDto.cs",
+              "RelativeToolTip": "BusTraveller\\Dtos\\TravellerHistorySearchDto.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T21:56:05.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TravellerHistorySearch.cs",
+              "DocumentMoniker": "C:\\Users\\w\\Downloads\\BusTraveller SolCopy\\BusTraveller SolCopy\\BusTraveller Sol\\Bus.Core\\Models\\TravellerHistorySearch.cs",
+              "RelativeDocumentMoniker": "Bus.Core\\Models\\TravellerHistorySearch.cs",
+              "ToolTip": "C:\\Users\\w\\Downloads\\BusTraveller SolCopy\\BusTraveller SolCopy\\BusTraveller Sol\\Bus.Core\\Models\\TravellerHistorySearch.cs",
+              "RelativeToolTip": "Bus.Core\\Models\\TravellerHistorySearch.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAUwBUAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T04:04:03.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\w\\Downloads\\BusTraveller SolCopy\\BusTraveller SolCopy\\BusTraveller Sol\\BusTraveller\\appsettings.json",
+              "RelativeDocumentMoniker": "BusTraveller\\appsettings.json",
+              "ToolTip": "C:\\Users\\w\\Downloads\\BusTraveller SolCopy\\BusTraveller SolCopy\\BusTraveller Sol\\BusTraveller\\appsettings.json",
+              "RelativeToolTip": "BusTraveller\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-03T00:23:12.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20240505010413_IntialMigration5.cs",
+              "DocumentMoniker": "C:\\Users\\w\\Downloads\\BusTraveller SolCopy\\BusTraveller SolCopy\\BusTraveller Sol\\Bus.Infrastructure\\Data\\Migrations\\20240505010413_IntialMigration5.cs",
+              "RelativeDocumentMoniker": "Bus.Infrastructure\\Data\\Migrations\\20240505010413_IntialMigration5.cs",
+              "ToolTip": "C:\\Users\\w\\Downloads\\BusTraveller SolCopy\\BusTraveller SolCopy\\BusTraveller Sol\\Bus.Infrastructure\\Data\\Migrations\\20240505010413_IntialMigration5.cs",
+              "RelativeToolTip": "Bus.Infrastructure\\Data\\Migrations\\20240505010413_IntialMigration5.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T01:04:14.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TravellerConfigurations.cs",
+              "DocumentMoniker": "C:\\Users\\w\\Downloads\\BusTraveller SolCopy\\BusTraveller SolCopy\\BusTraveller Sol\\Bus.Infrastructure\\Data\\Configurations\\TravellerConfigurations.cs",
+              "RelativeDocumentMoniker": "Bus.Infrastructure\\Data\\Configurations\\TravellerConfigurations.cs",
+              "ToolTip": "C:\\Users\\w\\Downloads\\BusTraveller SolCopy\\BusTraveller SolCopy\\BusTraveller Sol\\Bus.Infrastructure\\Data\\Configurations\\TravellerConfigurations.cs",
+              "RelativeToolTip": "Bus.Infrastructure\\Data\\Configurations\\TravellerConfigurations.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAiwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T21:35:41.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20240504214629_initialMigration4.cs",
+              "DocumentMoniker": "C:\\Users\\w\\Downloads\\BusTraveller SolCopy\\BusTraveller SolCopy\\BusTraveller Sol\\Bus.Infrastructure\\Data\\Migrations\\20240504214629_initialMigration4.cs",
+              "RelativeDocumentMoniker": "Bus.Infrastructure\\Data\\Migrations\\20240504214629_initialMigration4.cs",
+              "ToolTip": "C:\\Users\\w\\Downloads\\BusTraveller SolCopy\\BusTraveller SolCopy\\BusTraveller Sol\\Bus.Infrastructure\\Data\\Migrations\\20240504214629_initialMigration4.cs",
+              "RelativeToolTip": "Bus.Infrastructure\\Data\\Migrations\\20240504214629_initialMigration4.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T21:46:30.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AppointmentConfigurations.cs",
+              "DocumentMoniker": "C:\\Users\\w\\Downloads\\BusTraveller SolCopy\\BusTraveller SolCopy\\BusTraveller Sol\\Bus.Infrastructure\\Data\\Configurations\\AppointmentConfigurations.cs",
+              "RelativeDocumentMoniker": "Bus.Infrastructure\\Data\\Configurations\\AppointmentConfigurations.cs",
+              "ToolTip": "C:\\Users\\w\\Downloads\\BusTraveller SolCopy\\BusTraveller SolCopy\\BusTraveller Sol\\Bus.Infrastructure\\Data\\Configurations\\AppointmentConfigurations.cs",
+              "RelativeToolTip": "Bus.Infrastructure\\Data\\Configurations\\AppointmentConfigurations.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T21:35:52.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\w\\Downloads\\BusTraveller SolCopy\\BusTraveller SolCopy\\BusTraveller Sol\\Bus.Core\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Bus.Core\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\w\\Downloads\\BusTraveller SolCopy\\BusTraveller SolCopy\\BusTraveller Sol\\Bus.Core\\Models\\User.cs",
+              "RelativeToolTip": "Bus.Core\\Models\\User.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T01:05:45.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IAuthenticationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\w\\Downloads\\BusTraveller SolCopy\\BusTraveller SolCopy\\BusTraveller Sol\\Bus.Core\\Repositories.Contract\\IAuthenticationRepository.cs",
+              "RelativeDocumentMoniker": "Bus.Core\\Repositories.Contract\\IAuthenticationRepository.cs",
+              "ToolTip": "C:\\Users\\w\\Downloads\\BusTraveller SolCopy\\BusTraveller SolCopy\\BusTraveller Sol\\Bus.Core\\Repositories.Contract\\IAuthenticationRepository.cs",
+              "RelativeToolTip": "Bus.Core\\Repositories.Contract\\IAuthenticationRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T01:06:11.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "RequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\w\\Downloads\\BusTraveller SolCopy\\BusTraveller SolCopy\\BusTraveller Sol\\BusTraveller\\Dtos\\RequestDto.cs",
+              "RelativeDocumentMoniker": "BusTraveller\\Dtos\\RequestDto.cs",
+              "ToolTip": "C:\\Users\\w\\Downloads\\BusTraveller SolCopy\\BusTraveller SolCopy\\BusTraveller Sol\\BusTraveller\\Dtos\\RequestDto.cs",
+              "RelativeToolTip": "BusTraveller\\Dtos\\RequestDto.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T20:00:13.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\w\\Downloads\\BusTraveller SolCopy\\BusTraveller SolCopy\\BusTraveller Sol\\BusTraveller\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "BusTraveller\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\w\\Downloads\\BusTraveller SolCopy\\BusTraveller SolCopy\\BusTraveller Sol\\BusTraveller\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "BusTraveller\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T00:25:22.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UserRoleDto.cs",
+              "DocumentMoniker": "C:\\Users\\w\\Downloads\\BusTraveller SolCopy\\BusTraveller SolCopy\\BusTraveller Sol\\BusTraveller\\Dtos\\UserRoleDto.cs",
+              "RelativeDocumentMoniker": "BusTraveller\\Dtos\\UserRoleDto.cs",
+              "ToolTip": "C:\\Users\\w\\Downloads\\BusTraveller SolCopy\\BusTraveller SolCopy\\BusTraveller Sol\\BusTraveller\\Dtos\\UserRoleDto.cs",
+              "RelativeToolTip": "BusTraveller\\Dtos\\UserRoleDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T01:30:13.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AuthenticationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\w\\Downloads\\BusTraveller SolCopy\\BusTraveller SolCopy\\BusTraveller Sol\\Bus.Infrastructure\\AuthenticationRepository.cs",
+              "RelativeDocumentMoniker": "Bus.Infrastructure\\AuthenticationRepository.cs",
+              "ToolTip": "C:\\Users\\w\\Downloads\\BusTraveller SolCopy\\BusTraveller SolCopy\\BusTraveller Sol\\Bus.Infrastructure\\AuthenticationRepository.cs",
+              "RelativeToolTip": "Bus.Infrastructure\\AuthenticationRepository.cs",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAswHwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T01:07:04.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\w\\Downloads\\BusTraveller SolCopy\\BusTraveller SolCopy\\BusTraveller Sol\\BusTraveller\\Dtos\\LoginDto.cs",
+              "RelativeDocumentMoniker": "BusTraveller\\Dtos\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\w\\Downloads\\BusTraveller SolCopy\\BusTraveller SolCopy\\BusTraveller Sol\\BusTraveller\\Dtos\\LoginDto.cs",
+              "RelativeToolTip": "BusTraveller\\Dtos\\LoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T04:10:04.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\w\\Downloads\\BusTraveller SolCopy\\BusTraveller SolCopy\\BusTraveller Sol\\BusTraveller\\Dtos\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "BusTraveller\\Dtos\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\w\\Downloads\\BusTraveller SolCopy\\BusTraveller SolCopy\\BusTraveller Sol\\BusTraveller\\Dtos\\RegisterDto.cs",
+              "RelativeToolTip": "BusTraveller\\Dtos\\RegisterDto.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAYwBUAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T04:13:16.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20240503170417_initial migration3.cs",
+              "DocumentMoniker": "C:\\Users\\w\\Downloads\\BusTraveller SolCopy\\BusTraveller SolCopy\\BusTraveller Sol\\Bus.Infrastructure\\Data\\Migrations\\20240503170417_initial migration3.cs",
+              "RelativeDocumentMoniker": "Bus.Infrastructure\\Data\\Migrations\\20240503170417_initial migration3.cs",
+              "ToolTip": "C:\\Users\\w\\Downloads\\BusTraveller SolCopy\\BusTraveller SolCopy\\BusTraveller Sol\\Bus.Infrastructure\\Data\\Migrations\\20240503170417_initial migration3.cs",
+              "RelativeToolTip": "Bus.Infrastructure\\Data\\Migrations\\20240503170417_initial migration3.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T17:04:17.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Bus.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\w\\Downloads\\BusTraveller SolCopy\\BusTraveller SolCopy\\BusTraveller Sol\\Bus.Infrastructure\\Bus.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Bus.Infrastructure\\Bus.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\w\\Downloads\\BusTraveller SolCopy\\BusTraveller SolCopy\\BusTraveller Sol\\Bus.Infrastructure\\Bus.Infrastructure.csproj",
+              "RelativeToolTip": "Bus.Infrastructure\\Bus.Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-03T16:18:03.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20240502215227_IntialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\w\\Downloads\\BusTraveller SolCopy\\BusTraveller SolCopy\\BusTraveller Sol\\Bus.Infrastructure\\Data\\Migrations\\20240502215227_IntialMigration.cs",
+              "RelativeDocumentMoniker": "Bus.Infrastructure\\Data\\Migrations\\20240502215227_IntialMigration.cs",
+              "ToolTip": "C:\\Users\\w\\Downloads\\BusTraveller SolCopy\\BusTraveller SolCopy\\BusTraveller Sol\\Bus.Infrastructure\\Data\\Migrations\\20240502215227_IntialMigration.cs",
+              "RelativeToolTip": "Bus.Infrastructure\\Data\\Migrations\\20240502215227_IntialMigration.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T15:37:48.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20240502215516_IntialMigration2.cs",
+              "DocumentMoniker": "C:\\Users\\w\\Downloads\\BusTraveller SolCopy\\BusTraveller SolCopy\\BusTraveller Sol\\Bus.Infrastructure\\Data\\Migrations\\20240502215516_IntialMigration2.cs",
+              "RelativeDocumentMoniker": "Bus.Infrastructure\\Data\\Migrations\\20240502215516_IntialMigration2.cs",
+              "ToolTip": "C:\\Users\\w\\Downloads\\BusTraveller SolCopy\\BusTraveller SolCopy\\BusTraveller Sol\\Bus.Infrastructure\\Data\\Migrations\\20240502215516_IntialMigration2.cs",
+              "RelativeToolTip": "Bus.Infrastructure\\Data\\Migrations\\20240502215516_IntialMigration2.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T05:00:59.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "C:\\Users\\w\\Downloads\\BusTraveller SolCopy\\BusTraveller SolCopy\\BusTraveller Sol\\BusTraveller\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "BusTraveller\\Controllers\\RoleController.cs",
+              "ToolTip": "C:\\Users\\w\\Downloads\\BusTraveller SolCopy\\BusTraveller SolCopy\\BusTraveller Sol\\BusTraveller\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "BusTraveller\\Controllers\\RoleController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T00:25:40.412Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
